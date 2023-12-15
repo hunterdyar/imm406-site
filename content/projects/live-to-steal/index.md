@@ -1,0 +1,25 @@
+---
+title: Live to Steal
+---
+#### Korbin Nevius, Malik George, Ethan Derstine
+##### IMM 406 Prototyping For Advanced Systems  
+##### Fall 23  
+##### Final Prototype  
+
+AR Bank Heist is a two player experience, in which one player is a burglar trying to rob a bank in the dark and avoid security guards while the other player is a hacker on a laptop guiding the burglar through the bank using the camera feeds and a physical printed blueprint of the bank.
+
+##### Images
+
+![IMM Student Playing](/projects/live-to-steal/playtest.jpg)  
+
+![Outside Student Playing](/projects/live-to-steal/bank-layout.png)  
+
+![Board](/projects/live-to-steal/fov.png)  
+
+![Board](/projects/live-to-steal/cams-on.png)  
+
+![Board](/projects/live-to-steal/main-menu.png)  
+
+
+
+
