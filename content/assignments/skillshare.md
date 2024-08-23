@@ -22,7 +22,8 @@ Students will incorporate their findings in Part 2 into their presentation of Pa
 These collections of tools and things will be curated in a shared ‘binder’ that will act as a collective resource of immersive media-related knowledge that we will build, curate, and carry forward with us.
 
 ## Submission
-- Part 1: ½ to 1 page PDF with links, images, and notes that covers the tool portion of the skillshare.
-- Part 2: ½ to 1 page PDF with links, images, and notes that covers the ‘thing’ portion of the skillshare.
-- Please turn in all assignments on the classroom Brightspace page. In the file names please include your last name, whether it is the tool or the item of interest portion, and the skillshare number (i.e. Amodei_tool_SS_01.pdf and Amodei_interest_SS_01.pdf).
-- Be prepared to present about each portion of the skillshare with the class
+Each skillshare will have an appropriate discussion board on Brightspace, where it can be filled in directly. Please take advantage of the ability to embed images/video.
+
+- Part 1: ½ to 1 page with links, images, and notes that covers the tool portion of the skillshare.
+- Part 2: ½ to 1 page with links, images, and notes that covers the ‘thing’ portion of the skillshare.
+- Be prepared to quickly present about each portion of the skillshare with the class
