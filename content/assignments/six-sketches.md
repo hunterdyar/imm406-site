@@ -19,11 +19,14 @@ The sketches are be for possible prototypes, interactions, or designs for the se
 
 The other three sketches may take any form you like.
 
+## Topic
+The sketches must be related to something that *could* be created with the hardware topic for the semester, or at least is conceptually related as to be working in that direction.
+
 ## Submission
 Take a screenshot, video capture, photograph, or scan of each sketch as appropriate and upload it to the assignment in brightspace.
 
 ## Evaluation
-Each Sketch will be evaluated on creativity and execution. Repetative sketches and missed executions will be marked.
+Each Sketch will be evaluated on creativity and execution. Repetitive sketches and missed executions will be marked.
 
 That being said, the evaluation of each sketch will be generous. I want to encourage taking that extra step in both creativity (and not repeating oneself) and execution (going that little bit further) as we refamiliarize ourselves with the tools.
 
