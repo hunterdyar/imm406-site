@@ -6,9 +6,9 @@ title: Trap Masterz
 ##### Fall 2024  
 ##### Final Prototype  
 
-Trap Masterz is a 2-player experience where one player acts as the trap master, and the other must work to outrun those traps before they are given a chance to be set off. The trap master cannot see exactly what the other player is doing and has to figure out when to set the traps off by audio and visual cues, such as the sound of footsteps and which light indicators are activated on the trap master's control box. 
+In this multiplayer prototype, one person plays as the "Trap Master" who works to catch the runner,  but there's a twist - they can't see where the runner is going!  Use auditory and other visual clues to try and figure out when the time is right to strike.  Activate your traps too early, and the other Trap Masters will hear about it!
 
-The trap master's main and only control method comes in the form of five buttons on the control box, which each activate the trap that they correspond with. The buttons are arranged and located as closely to the in-game map as possible. 
+[Trap Masterz Gameplay](https://youtube.com/shorts/nfjEMBQMwJo)
 
 ##### Showcase Images
 
