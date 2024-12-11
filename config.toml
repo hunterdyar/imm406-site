@@ -2,3 +2,5 @@ baseURL = 'https://prototyping.hdyar.com/'
 languageCode = 'en-us'
 title = 'Immersive Media 406'
 theme = "hugo-theme-onepagecourse"
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
