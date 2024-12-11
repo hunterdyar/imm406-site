@@ -3,11 +3,9 @@ title: Space Force V2
 ---
 *Becca Baker, Cassandra Carpenter, Chase Craig, Angelo Licavoli, Stephanie Rios - Fall 2024*
 
-Space Force V2 is a multiplayer experience that puts players in charge of piloting a spaceship. Players are instructed to interact with various Arduino controls to prevent their ship from blowing up before the time frame.
-
-{{< youtube A7TcQpqa_QQ >}}
-YouTube Link: [https://youtu.be/A7TcQpqa_QQ](https://youtu.be/A7TcQpqa_QQ)
-
+Space Force V2 is a multiplayer experience that puts players in charge of piloting a spaceship. 
+Players are given  to interact with various wacky controls to prevent their ship from blowing up.
+### Image Documentation
 <div class="image-grid">
     <img src="IMG_1112.jpg" alt="Space Force v2 Logo Hanging on sign.">
     <img src="IMG_1113.jpg" alt="A large glowing green button and a blue spinner, mounted on a white panel. They are labeled as the Green Gateway and the Vector Vortex in a futuristic title.">
@@ -33,7 +31,7 @@ YouTube Link: [https://youtu.be/A7TcQpqa_QQ](https://youtu.be/A7TcQpqa_QQ)
 <style>
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 10px;
 }
 .image-grid img {
@@ -41,3 +39,7 @@ YouTube Link: [https://youtu.be/A7TcQpqa_QQ](https://youtu.be/A7TcQpqa_QQ)
     height: auto;
 }
 </style>
+
+### Video Documentation
+{{< youtube A7TcQpqa_QQ >}}
+YouTube Link: [https://youtu.be/A7TcQpqa_QQ](https://youtu.be/A7TcQpqa_QQ)
