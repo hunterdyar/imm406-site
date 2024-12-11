@@ -12,12 +12,12 @@ In this multiplayer prototype, one person plays as the "Trap Master" who works t
 
 ##### Showcase Images
 
-![Trap Master's Board](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\trap-masterz\trap1.jpg)  
+![Trap Master's Board](/projects/trap-masterz/trap1.jpg)  
 
-![Green Skull Lamp](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\trap-masterz\trap2.jpg)  
+![Green Skull Lamp](/projects/trap-masterz/trap2.jpg)  
 
-![Gameplay Images](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\trap-masterz\trapgameplay3.jpg)  
+![Gameplay Image](/projects/trap-masterz/trapgameplay3.jpg)  
 
-![](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\trap-masterz\trapgameplay1.jpg)
+![Blaise setting the traps](/projects/trap-masterz/trapgameplay1.jpg)
 
-![](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\trap-masterz\trapgameplay2.jpg)
+![Chase and Hunter playing, while Chase reaches to activate a trap](/projects/trap-masterz/trapgameplay2.jpg)

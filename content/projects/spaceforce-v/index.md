@@ -12,11 +12,11 @@ Space Force V is a Space Team-inspired game in which three players each have the
 
 ##### Space Force V Images
 
-![Foxy & Chase Hard at Work](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\spaceforce-v\spaceForceEcho.jpg)  
+![Foxy & Chase Hard at Work](/projects/spaceforce-v/spaceForceEcho.jpg)  
 
-![Students read their cards.](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\spaceforce-v\spaceForceGamePlay1.jpg)  
+![Students read their cards.](/projects/spaceforce-v/spaceForceGamePlay1.jpg)  
 
-![Students attempt to coordinate with themselves.](C:\Users\Roblo\OneDrive\Documents\IMM406\Website Update\imm406-site\content\projects\spaceforce-v\spaceForceGamePlay2.jpg)  
+![Students attempt to coordinate with themselves.](/projects/spaceforce-v/spaceForceGamePlay2.jpg)  
 
 
 
