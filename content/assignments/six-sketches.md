@@ -14,7 +14,7 @@ The sketches are be for possible prototypes, interactions, or designs for the se
 > Despite suggestions from the reading, the sketches for this assignment are *not* thumbnail sketches, and should be taken further for the sake of exploring ideas and tools, and getting back into the workflows.
 
 - At least one sketch must be on paper
-- At least one sketch must be for the tilt five, in the final game engine
+- At least one sketch must be for the board, in the game engine
 - At least one sketch must be crafted from physical materials like cardboard or toys.
 
 The other three sketches may take any form you like.

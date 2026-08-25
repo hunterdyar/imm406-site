@@ -11,6 +11,12 @@ Create 1-3 sketches for the system, with a unique goal. Have a single hardware/t
 
 Title the project with the constraint/question you are exploring, and take screenshots or video capture.
 
+## Example Questions (Board)
+- What is the fastest I can move an object?
+- How large does text need to be to be readable?
+- How bright do objects appear? (AKA What contrast ratios should I be working with? - At what viewing angles?)
+etc.
+
 ## Example Questions (Lightship)
 - How does Meshing Work for Physics?
 - How can we use nav meshes? What are they?
