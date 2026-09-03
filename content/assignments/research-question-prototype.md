@@ -17,6 +17,16 @@ Title the project with the constraint/question you are exploring, and take scree
 - How bright do objects appear? (AKA What contrast ratios should I be working with? - At what viewing angles?)
 etc.
 
+## Example Questions (Board)
+- What are available piece holding affordances (affecting posture, kinesthetics, haptics, piece movement options)
+- Orientation Changes/Communication Between Multiple Players. Best practices for rotating text?
+- How do we detect the active players/pieces?
+- How deep can we render the background? How does the depth work?
+- How precise can the pieces be used? (timing, precision, speed of movement)
+- What's the dead zone of piece movement or rotation?
+- What is the piece's capacitance touch capabilities? 
+
+
 ## Example Questions (Lightship)
 - How does Meshing Work for Physics?
 - How can we use nav meshes? What are they?
